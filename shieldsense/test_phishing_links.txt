@@ -1,0 +1,60 @@
+Here are some test phishing links and content you can use to test your phishing scanner:
+
+1. Safe content:
+"This is a normal email from your bank about your account statement. Please log in to view it."
+
+2. Suspicious content:
+"URGENT: Your PayPal account has been suspended. Click here to verify: http://paypa1.com/login
+Please act immediately to avoid account closure."
+
+3. Dangerous content:
+"Dear Customer,
+Your bank account security has been compromised. We need you to verify your identity immediately.
+Please provide your account number, password, and security questions.
+Click here to secure your account: http://secure-bank-login.com/verify"
+
+4. Phishing URL examples:
+- http://paypa1.com (typo-squatting)
+- http://bankofamerica-support.com
+- http://amazon-security-alert.net
+- http://netflix-account-update.org
+
+5. Email with multiple red flags:
+"CONGRATULATIONS! You've won a free iPhone!
+To claim your prize, click the link below and enter your personal information:
+http://free-iphone-giveaway.com/claim
+Hurry, offer expires in 24 hours!
+Best regards,
+Apple Support Team"
+
+6. Legitimate-looking but suspicious:
+"Dear valued customer,
+We have detected unusual activity on your credit card ending in ****1234.
+For your security, please verify your information by clicking here:
+https://secure-chase.com/verify-account
+If you did not make these transactions, contact us immediately."
+
+7. URL with suspicious keywords:
+"http://login-microsoft-support.com/update-password"
+
+8. Content with urgent language:
+"WARNING: Your computer is infected with virus!
+Download our antivirus software immediately: http://best-antivirus-download.com"
+
+9. Fake tech support:
+"Hello,
+This is Microsoft Technical Support. We have detected a serious problem with your Windows computer.
+Call us at 1-800-123-4567 or visit: http://microsoft-support-help.com
+Do not turn off your computer!"
+
+10. Social engineering attempt:
+"Hi [Your Name],
+I hope this email finds you well. I'm reaching out because I noticed we have a mutual connection on LinkedIn.
+I'm currently working on an exciting project and I think your expertise would be perfect for it.
+Would you be available for a quick call next week?
+Best regards,
+John Smith
+CEO, Tech Innovations Inc.
+P.S. Here's my contact info: john.smith@techinnovationsinc.com"
+
+Note: These are simulated examples for testing purposes only. Do not click on real suspicious links or provide personal information to unverified sources.

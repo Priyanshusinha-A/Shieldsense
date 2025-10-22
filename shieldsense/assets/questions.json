@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Q1. What is the primary objective of cybersecurity?",
+    "options": ["A. To protect digital assets from unauthorized access", "B. To design computer hardware", "C. To increase internet speed", "D. To train hackers"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q2. Which of the following is an example of cybercrime?",
+    "options": ["A. Unauthorized access to a system", "B. Installing antivirus", "C. Creating strong passwords", "D. Updating software"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q3. What does the term “phishing” refer to?",
+    "options": ["A. Sending fraudulent emails to steal information", "B. Protecting networks", "C. Encrypting messages", "D. Building firewalls"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q4. The IT Act, 2000 primarily deals with:",
+    "options": ["A. Electronic commerce and cybercrime", "B. Banking regulations", "C. Industrial licensing", "D. Space technology"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q5. Which malware disguises itself as legitimate software?",
+    "options": ["A. Trojan Horse", "B. Worm", "C. Spyware", "D. Rootkit"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q6. Which device monitors and controls incoming and outgoing network traffic?",
+    "options": ["A. Firewall", "B. Router", "C. Modem", "D. Hub"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q7. What is the purpose of encryption?",
+    "options": ["A. To secure data by converting it into unreadable format", "B. To compress data", "C. To backup data", "D. To delete data"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q8. Which section of IT Act 2000 deals with hacking?",
+    "options": ["A. Section 66", "B. Section 45", "C. Section 72", "D. Section 10"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q9. What does “DDoS” stand for?",
+    "options": ["A. Distributed Denial of Service", "B. Direct Denial of Security", "C. Data Distribution of Systems", "D. Distributed Data Operation Service"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q10. What type of malware encrypts files and demands ransom?",
+    "options": ["A. Ransomware", "B. Worm", "C. Spyware", "D. Adware"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q11. Which of the following is NOT a form of cyber threat?",
+    "options": ["A. Phishing", "B. Smishing", "C. Firewalls", "D. Malware"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Q12. The act of investigating digital devices for evidence is called:",
+    "options": ["A. Digital Forensics", "B. Cybercrime", "C. Penetration Testing", "D. Data Mining"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q13. Which is a legal consequence of committing cybercrime in India?",
+    "options": ["A. Imprisonment and fine", "B. Warning letter only", "C. Reward from the government", "D. No punishment"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q14. A program that records keystrokes to steal passwords is called:",
+    "options": ["A. Keylogger", "B. Adware", "C. Worm", "D. Virus"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q15. What does “VPN” stand for?",
+    "options": ["A. Virtual Private Network", "B. Variable Processing Node", "C. Virtual Protocol Number", "D. Verified Private Network"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q16. Which of the following is a strong password example?",
+    "options": ["A. password123", "B. Q@9t#Lm2!", "C. john123", "D. abcdefg"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Q17. Which of these is used to detect and remove malware?",
+    "options": ["A. Antivirus", "B. Proxy", "C. Firewall", "D. Router"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q18. What is the first step in the digital forensic process?",
+    "options": ["A. Identification", "B. Analysis", "C. Preservation", "D. Presentation"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q19. What is the main function of cyber laws?",
+    "options": ["A. To regulate online behavior and punish offenders", "B. To teach coding", "C. To advertise online", "D. To improve internet speed"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q20. What is a botnet?",
+    "options": ["A. A network of infected computers controlled by hackers", "B. A social media platform", "C. A firewall configuration", "D. A secure connection"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q21. Which type of cyber attack uses fake Wi-Fi hotspots to steal data?",
+    "options": ["A. Evil Twin Attack", "B. Phishing", "C. Ransomware", "D. Brute Force"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q22. Which of these helps maintain data integrity?",
+    "options": ["A. Hashing", "B. Spam filtering", "C. Logging", "D. Data deletion"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q23. The process of tracing an attack’s origin is called:",
+    "options": ["A. Cyber Forensics", "B. Encryption", "C. Patching", "D. Hashing"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q24. Which of these is NOT a step in incident response?",
+    "options": ["A. Identification", "B. Containment", "C. Recovery", "D. Data fabrication"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Q25. What is malware short for?",
+    "options": ["A. Malicious Software", "B. Machine Learning Software", "C. Manual Awareness", "D. Mailware"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q26. Which cybercrime involves altering website content?",
+    "options": ["A. Website defacement", "B. Phishing", "C. SQL Injection", "D. Hacking"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q27. Which act protects personal data in India (proposed)?",
+    "options": ["A. Digital Personal Data Protection Act", "B. IT Act 2000", "C. RTI Act", "D. Privacy Regulation Act"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q28. A virus requires what to spread?",
+    "options": ["A. Human action", "B. Internet connection", "C. Firewall", "D. VPN"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q29. What is digital evidence?",
+    "options": ["A. Any information of probative value stored electronically", "B. Paper documents", "C. Physical evidence", "D. Passwords"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q30. What is a “payload” in malware?",
+    "options": ["A. The malicious component that performs the attack", "B. The encryption key", "C. The firewall rule", "D. The antivirus signature"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q31. What is the safest way to store passwords?",
+    "options": ["A. Password manager", "B. Sticky notes", "C. Email drafts", "D. Shared documents"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q32. Which is a common indicator of phishing?",
+    "options": ["A. Suspicious links or email addresses", "B. Official domain name", "C. Secure SSL certificate", "D. Verified sender"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q33. What is meant by data breach?",
+    "options": ["A. Unauthorized access to sensitive information", "B. Data backup", "C. Encryption process", "D. Cloud storage"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q34. What should be done first when a system is infected?",
+    "options": ["A. Disconnect from the network", "B. Continue using the system", "C. Delete random files", "D. Install more software"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q35. Which tool is commonly used in malware analysis?",
+    "options": ["A. Wireshark", "B. Photoshop", "C. PowerPoint", "D. Excel"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q36. What is cyberstalking?",
+    "options": ["A. Using the internet to harass someone", "B. Protecting people online", "C. Blocking websites", "D. Encrypting emails"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q37. What is the main goal of social engineering attacks?",
+    "options": ["A. Manipulate people into revealing information", "B. Exploit network firewalls", "C. Crack passwords using brute force", "D. Disable antivirus"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q38. Which of the following is a biometric authentication method?",
+    "options": ["A. Fingerprint", "B. PIN code", "C. Password", "D. Security question"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q39. What is the best way to ensure data recovery after ransomware?",
+    "options": ["A. Maintain regular offline backups", "B. Pay the ransom", "C. Ignore the attack", "D. Disconnect Wi-Fi only"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q40. What is the purpose of a honeypot in cybersecurity?",
+    "options": ["A. To attract attackers and study their behavior", "B. To store confidential data", "C. To create passwords", "D. To clean malware"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q41. Which section of IT Act covers identity theft?",
+    "options": ["A. Section 66C", "B. Section 43A", "C. Section 69", "D. Section 72"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q42. The process of identifying patterns of attack is called:",
+    "options": ["A. Threat Intelligence", "B. Encryption", "C. Patching", "D. Authentication"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q43. What is a rootkit?",
+    "options": ["A. Malware that hides other malicious programs", "B. A system cleaner", "C. A password tool", "D. Antivirus software"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q44. What does “two-factor authentication” mean?",
+    "options": ["A. Using two different methods to verify identity", "B. Logging in twice", "C. Using two passwords", "D. Changing password monthly"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q45. What does GDPR stand for?",
+    "options": ["A. General Data Protection Regulation", "B. Global Digital Privacy Rule", "C. Government Data Privacy Regulation", "D. General Database Protection Rule"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q46. What is the difference between a virus and a worm?",
+    "options": ["A. Worms spread automatically; viruses need user action", "B. Worms are harmless; viruses are not", "C. Viruses encrypt data; worms don’t", "D. No difference"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q47. What is the function of digital signatures?",
+    "options": ["A. Verify authenticity and integrity of digital documents", "B. Encrypt files", "C. Sign emails only", "D. Provide anonymity"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q48. What is cyber espionage?",
+    "options": ["A. Unauthorized spying to gather confidential data", "B. Social media monitoring", "C. Website hosting", "D. Ethical hacking"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q49. Which of the following is a preventive security measure?",
+    "options": ["A. Firewall", "B. Keylogger", "C. Trojan", "D. Ransomware"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q50. What is a logic bomb?",
+    "options": ["A. Malicious code triggered by a specific event", "B. Firewall rule", "C. System patch", "D. Antivirus update"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q51. What is cyberbullying?",
+    "options": ["A. Using digital platforms to harass or intimidate others", "B. Using social media for marketing", "C. Reporting crimes online", "D. Creating strong passwords"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q52. Which protocol is used for secure web communication?",
+    "options": ["A. HTTPS", "B. FTP", "C. HTTP", "D. SMTP"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q53. Which of the following is NOT an example of malware?",
+    "options": ["A. Worm", "B. Trojan", "C. Spyware", "D. VPN"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Q54. Which type of hacker works with permission to improve security?",
+    "options": ["A. White Hat Hacker", "B. Black Hat Hacker", "C. Gray Hat Hacker", "D. Script Kiddie"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q55. What is the full form of IDS in cybersecurity?",
+    "options": ["A. Intrusion Detection System", "B. Internet Data Service", "C. Internal Data Storage", "D. Information Defense Software"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q56. What is cyber forensics mainly used for?",
+    "options": ["A. Investigating and analyzing digital crimes", "B. Designing computer systems", "C. Encrypting all files", "D. Programming mobile apps"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q57. Which one of the following is an example of ransomware?",
+    "options": ["A. WannaCry", "B. Pegasus", "C. Zeus", "D. Mirai"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q58. What does “shoulder surfing” mean?",
+    "options": ["A. Watching someone type their password", "B. Surfing online safely", "C. Spying with malware", "D. Data encryption process"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q59. The process of testing systems for vulnerabilities is called:",
+    "options": ["A. Penetration Testing", "B. Encryption", "C. Hashing", "D. Encoding"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q60. Which of the following best describes cyber ethics?",
+    "options": ["A. Responsible behavior while using the internet", "B. Writing malware", "C. Creating phishing emails", "D. Sharing passwords"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q61. Which type of attack attempts to guess a password by trying many combinations?",
+    "options": ["A. Brute Force Attack", "B. Phishing", "C. Man-in-the-Middle", "D. Sniffing"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q62. What is spyware primarily designed to do?",
+    "options": ["A. Secretly collect user data", "B. Destroy files", "C. Encrypt disks", "D. Speed up computer"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q63. Which Indian organization handles cyber emergencies?",
+    "options": ["A. CERT-In", "B. TRAI", "C. RBI", "D. NIC"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q64. Which section of the IT Act covers punishment for identity theft?",
+    "options": ["A. Section 66C", "B. Section 65", "C. Section 43A", "D. Section 72"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q65. What does “adware” do?",
+    "options": ["A. Displays unwanted advertisements", "B. Deletes files", "C. Encrypts data", "D. Installs antivirus"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q66. Which is an example of a strong cybersecurity practice?",
+    "options": ["A. Updating software regularly", "B. Sharing passwords", "C. Ignoring system updates", "D. Clicking unknown links"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q67. What is “cyber grooming”?",
+    "options": ["A. Befriending minors online for exploitation", "B. Cleaning computer systems", "C. Teaching cybersecurity", "D. Encrypting data"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q68. What is an example of a preventive control in cybersecurity?",
+    "options": ["A. Antivirus software", "B. Incident report", "C. Evidence collection", "D. Post-attack analysis"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q69. Which file extension is most likely to contain a malicious macro?",
+    "options": ["A. .docm", "B. .jpg", "C. .png", "D. .mp3"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q70. What does “IoT” stand for?",
+    "options": ["A. Internet of Things", "B. Input of Technology", "C. Interconnection of Tools", "D. Internet of Transfers"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q71. What is cyber terrorism?",
+    "options": ["A. Using technology to cause fear or harm to society", "B. Ethical hacking", "C. Digital marketing", "D. Spam messaging"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q72. Which of these is NOT a cyber forensic tool?",
+    "options": ["A. EnCase", "B. FTK", "C. Wireshark", "D. Photoshop"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Q73. What is the main goal of penetration testing?",
+    "options": ["A. To identify security vulnerabilities", "B. To install antivirus", "C. To destroy systems", "D. To create viruses"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q74. What is “dumpster diving”?",
+    "options": ["A. Searching discarded materials for confidential data", "B. Emptying recycle bins", "C. Encrypting trash files", "D. Installing updates"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q75. What is a digital certificate used for?",
+    "options": ["A. Authenticating identities online", "B. Encrypting local files only", "C. Tracking malware", "D. Saving cookies"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q76. Which malware spreads by attaching itself to legitimate files?",
+    "options": ["A. Virus", "B. Worm", "C. Trojan", "D. Spyware"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q77. Which of these is an example of multi-factor authentication?",
+    "options": ["A. Password + OTP", "B. Username only", "C. Email login only", "D. PIN only"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q78. Which of the following best defines “cybercrime”?",
+    "options": ["A. Illegal activities conducted via computer networks", "B. Software development", "C. Digital marketing", "D. Data compression"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q79. What is data integrity?",
+    "options": ["A. Accuracy and consistency of stored data", "B. Speed of network", "C. Encryption strength", "D. Size of data"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q80. What does a forensic image represent?",
+    "options": ["A. An exact copy of a storage device", "B. A random screenshot", "C. A compressed file", "D. A backup of emails"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q81. Which section of the IT Act deals with publishing obscene material online?",
+    "options": ["A. Section 67", "B. Section 65", "C. Section 43", "D. Section 72"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q82. What does “CVE” stand for in cybersecurity?",
+    "options": ["A. Common Vulnerabilities and Exposures", "B. Central Virus Engine", "C. Common Virtual Environment", "D. Cyber Vulnerability Evaluation"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q83. What is the purpose of a security audit?",
+    "options": ["A. To assess an organization’s security posture", "B. To hack systems", "C. To write malware", "D. To erase logs"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q84. What is the most common reason for data breaches?",
+    "options": ["A. Human error", "B. Software updates", "C. Antivirus programs", "D. Network speed"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q85. Which type of attack exploits SQL-based web applications?",
+    "options": ["A. SQL Injection", "B. XSS Attack", "C. DDoS", "D. Brute Force"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q86. What is “cyber hygiene”?",
+    "options": ["A. Regular practices to maintain online safety", "B. Cleaning hardware physically", "C. Changing wallpapers", "D. Deleting cookies"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q87. What is the difference between HTTPS and HTTP?",
+    "options": ["A. HTTPS uses encryption for secure communication", "B. HTTPS loads faster", "C. HTTP is only for mobile", "D. No difference"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q88. What is an IP address used for?",
+    "options": ["A. Identifying devices on a network", "B. Encrypting files", "C. Hiding malware", "D. Controlling access rights"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q89. Which tool is used to capture network packets?",
+    "options": ["A. Wireshark", "B. Excel", "C. Paint", "D. Notepad"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q90. What does malware “payload” mean?",
+    "options": ["A. The part of the code that executes the attack", "B. The antivirus signature", "C. Backup data", "D. Firewall rule"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q91. What is “ethical hacking”?",
+    "options": ["A. Authorized hacking to improve security", "B. Illegal hacking", "C. Creating malware", "D. Phishing users"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q92. Which of these is a common mobile malware vector?",
+    "options": ["A. Malicious apps from unofficial stores", "B. Text messages from contacts", "C. System updates", "D. Built-in apps"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q93. What does the IT Act 2000 promote apart from security?",
+    "options": ["A. E-Governance and digital transactions", "B. Gaming regulations", "C. Film piracy", "D. Advertising"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q94. What is the purpose of an access control policy?",
+    "options": ["A. To define who can access what information", "B. To delete unauthorized data", "C. To store logs", "D. To encrypt hard drives"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q95. Which one of these is NOT a cyber law objective?",
+    "options": ["A. Protecting online users", "B. Regulating e-commerce", "C. Encouraging hacking", "D. Preventing fraud"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Q96. What does “sandboxing” mean?",
+    "options": ["A. Running code in an isolated environment for safety", "B. Encrypting files", "C. Sharing data over the internet", "D. Testing servers live"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q97. What is “social engineering”?",
+    "options": ["A. Manipulating people to gain confidential information", "B. Building social networks", "C. Hacking software", "D. Encoding data"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q98. What is an example of post-incident activity?",
+    "options": ["A. Reviewing lessons learned", "B. Launching attack simulations", "C. Password cracking", "D. Collecting user data"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q99. What is a brute force attack?",
+    "options": ["A. Trying all possible password combinations to gain access", "B. Encrypting all passwords", "C. Using one password for all sites", "D. Blocking network ports"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q100. What is the role of an antivirus program?",
+    "options": ["A. Detecting and removing malicious software", "B. Monitoring Wi-Fi speed", "C. Compressing files", "D. Managing network traffic"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q161. What is the main goal of data encryption?",
+    "options": ["A. Protecting data confidentiality", "B. Deleting files", "C. Speeding up transfers", "D. Hiding viruses"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q162. What does “incident response” mean?",
+    "options": ["A. Handling and managing security breaches", "B. Ignoring alerts", "C. Installing new software", "D. Sending newsletters"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q163. Which cybercrime involves stealing credit card data online?",
+    "options": ["A. Carding", "B. Phishing", "C. Worming", "D. DDoS"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q164. What is cyber forensics triage?",
+    "options": ["A. Quick assessment of evidence in time-sensitive cases", "B. Destroying old evidence", "C. Encrypting backups", "D. Analyzing software updates"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q165. What is ransomware designed to do?",
+    "options": ["A. Encrypt data and demand payment", "B. Repair corrupted files", "C. Delete system logs", "D. Speed up devices"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q166. What is the meaning of “ethical hacking”?",
+    "options": ["A. Authorized testing of systems to find vulnerabilities", "B. Illegal access for personal gain", "C. Spreading malware", "D. Spying on employees"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q167. Which cyber law governs online contracts in India?",
+    "options": ["A. IT Act, 2000", "B. Contract Act, 1872", "C. Consumer Act", "D. Copyright Act"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q168. What is malware sandboxing used for?",
+    "options": ["A. Safely testing suspicious files", "B. Deleting infected systems", "C. Encrypting evidence", "D. Copying files online"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q169. Which of the following best defines data privacy?",
+    "options": ["A. Right to control how personal data is collected and used", "B. Hiding personal data from everyone", "C. Encrypting all devices", "D. Selling information online"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q170. What does the term “firewall” mean?",
+    "options": ["A. A security system that filters network traffic", "B. A physical barrier", "C. A type of virus", "D. A browser plugin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q171. What is the purpose of cyber threat intelligence?",
+    "options": ["A. Understanding and predicting potential cyber attacks", "B. Writing antivirus software", "C. Deleting old data", "D. Managing user accounts"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q172. What is a forensic chain of custody document?",
+    "options": ["A. Record of evidence handling and transfer", "B. Evidence encryption key", "C. User access list", "D. File recovery log"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q173. Which section of the IT Act covers “cyber terrorism”?",
+    "options": ["A. Section 66F", "B. Section 43A", "C. Section 70B", "D. Section 65"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q174. What is the full form of SSL?",
+    "options": ["A. Secure Sockets Layer", "B. Secure Software Link", "C. System Security License", "D. Security Socket Log"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q175. Which of these is NOT an example of cybercrime?",
+    "options": ["A. Unauthorized access", "B. Software piracy", "C. Sending spam emails", "D. Installing antivirus"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Q176. What is the main purpose of penetration testing?",
+    "options": ["A. To find vulnerabilities before attackers do", "B. To destroy systems", "C. To encrypt all files", "D. To test antivirus speed"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q177. What is digital evidence preservation?",
+    "options": ["A. Protecting evidence integrity during handling", "B. Encrypting data for users", "C. Deleting logs regularly", "D. Copying files randomly"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q178. What does a “bot” refer to in cybersecurity?",
+    "options": ["A. An automated program performing tasks", "B. A security analyst", "C. A new type of firewall", "D. A fake email"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q179. What is an “air gap” in cybersecurity?",
+    "options": ["A. Physically isolating systems from networks", "B. Using VPNs", "C. Changing IP address", "D. Restarting computers"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q180. What is a forensic image used for?",
+    "options": ["A. To analyze exact copies of digital evidence", "B. To edit documents", "C. To encrypt folders", "D. To format drives"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q181. Which malware hides within another file or software?",
+    "options": ["A. Trojan Horse", "B. Worm", "C. Virus", "D. Rootkit"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q182. What is a cyber incident?",
+    "options": ["A. Any event that compromises data confidentiality, integrity, or availability", "B. Normal system shutdown", "C. Network maintenance", "D. Routine backup"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q183. What is phishing primarily used for?",
+    "options": ["A. Stealing user credentials or information", "B. Encrypting backups", "C. Speeding up downloads", "D. Sending updates"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q184. What does the “dark web” refer to?",
+    "options": ["A. Encrypted online networks not indexed by search engines", "B. Public websites", "C. Online shopping portals", "D. Social media"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q185. What is an IP spoofing attack?",
+    "options": ["A. Faking an IP address to impersonate another device", "B. Encrypting network packets", "C. Resetting firewalls", "D. Filtering traffic"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q186. What is the safest password policy?",
+    "options": ["A. Strong, unique passwords changed regularly", "B. Same password everywhere", "C. Simple numeric passwords", "D. Sharing passwords with coworkers"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q187. Which of these is an example of cyber law enforcement body in India?",
+    "options": ["A. Cyber Crime Investigation Cell", "B. NITI Aayog", "C. SEBI", "D. RBI"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q188. What is the purpose of the Data Protection Authority (DPA)?",
+    "options": ["A. To oversee compliance with privacy laws", "B. To block websites", "C. To develop firewalls", "D. To monitor malware"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q189. What is the difference between data security and data privacy?",
+    "options": ["A. Security protects data from attacks; privacy controls data usage", "B. Both are same", "C. Privacy encrypts; security deletes", "D. Privacy is physical protection"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q190. What is a DDoS attack designed to do?",
+    "options": ["A. Overload systems to make them unavailable", "B. Delete data from servers", "C. Encrypt files", "D. Fix networks"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q191. What does the acronym “SOC” stand for?",
+    "options": ["A. Security Operations Center", "B. Secure Online Control", "C. System Output Configuration", "D. Software Operation Command"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q192. What is the role of hashing in password storage?",
+    "options": ["A. Convert passwords into irreversible strings for safety", "B. Encrypt with keys", "C. Save plain text passwords", "D. Compress data"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q193. What is “data exfiltration”?",
+    "options": ["A. Unauthorized transfer of data from a system", "B. Data compression", "C. Legal data sharing", "D. File synchronization"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q194. Which of these is used to detect unusual user behavior?",
+    "options": ["A. User Behavior Analytics (UBA)", "B. Firewall", "C. VPN", "D. Router"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q195. What is the meaning of “cyber reconnaissance”?",
+    "options": ["A. Gathering intelligence about a target before attack", "B. Encrypting files", "C. Testing backups", "D. Sending spam"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q196. What is the primary goal of digital forensic investigation?",
+    "options": ["A. Identifying, preserving, analyzing, and presenting evidence", "B. Deleting unwanted files", "C. Installing new OS", "D. Creating malware"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q197. What is the main function of a proxy server?",
+    "options": ["A. Acting as an intermediary between users and the internet", "B. Storing user data", "C. Deleting cookies", "D. Encrypting databases"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q198. What is the purpose of a security policy?",
+    "options": ["A. Define rules and procedures for protecting data", "B. Delete logs", "C. Increase performance", "D. Change passwords automatically"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q199. What is a “kill chain” in cybersecurity?",
+    "options": ["A. Model describing stages of a cyber attack", "B. List of blocked IPs", "C. Network topology map", "D. Antivirus rulebook"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Q200. Which law regulates electronic signatures in India?",
+    "options": ["A. IT Act, 2000 (Section 3)", "B. Indian Penal Code", "C. Copyright Act", "D. Evidence Act"],
+    "correctAnswer": 0
+  }
+]

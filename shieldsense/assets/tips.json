@@ -1,0 +1,1326 @@
+[
+  {
+    "tip": "Never click on links from unknown senders.",
+    "category": "Email Safety"
+  },
+  {
+    "tip": "Use unique passwords for each account.",
+    "category": "Password Security"
+  },
+  {
+    "tip": "Enable two-factor authentication wherever possible.",
+    "category": "Account Protection"
+  },
+  {
+    "tip": "Be cautious with attachments from unfamiliar sources.",
+    "category": "File Safety"
+  },
+  {
+    "tip": "Keep your software and operating system up to date.",
+    "category": "System Updates"
+  },
+  {
+    "tip": "Use a reputable antivirus program and keep it updated.",
+    "category": "Antivirus Protection"
+  },
+  {
+    "tip": "Avoid using public Wi-Fi for sensitive transactions.",
+    "category": "Network Security"
+  },
+  {
+    "tip": "Regularly back up your important data.",
+    "category": "Data Backup"
+  },
+  {
+    "tip": "Be wary of phishing attempts that ask for personal information.",
+    "category": "Phishing Awareness"
+  },
+  {
+    "tip": "Use strong, complex passwords with a mix of characters.",
+    "category": "Password Strength"
+  },
+  {
+    "tip": "Log out of accounts when not in use, especially on shared devices.",
+    "category": "Account Management"
+  },
+  {
+    "tip": "Verify website URLs before entering sensitive information.",
+    "category": "Website Verification"
+  },
+  {
+    "tip": "Use encryption for sensitive communications.",
+    "category": "Data Encryption"
+  },
+  {
+    "tip": "Avoid sharing personal information on social media.",
+    "category": "Privacy Protection"
+  },
+  {
+    "tip": "Install security patches as soon as they are available.",
+    "category": "Patch Management"
+  },
+  {
+    "tip": "Use a firewall to block unauthorized access.",
+    "category": "Firewall Usage"
+  },
+  {
+    "tip": "Be skeptical of unsolicited phone calls asking for information.",
+    "category": "Phone Scams"
+  },
+  {
+    "tip": "Use a password manager to securely store credentials.",
+    "category": "Password Management"
+  },
+  {
+    "tip": "Educate yourself about common cyber threats.",
+    "category": "Cyber Awareness"
+  },
+  {
+    "tip": "Avoid downloading software from untrusted sources.",
+    "category": "Software Downloads"
+  },
+  {
+    "tip": "Monitor your bank statements regularly for unusual activity.",
+    "category": "Financial Monitoring"
+  },
+  {
+    "tip": "Use VPN when connecting to public networks.",
+    "category": "VPN Usage"
+  },
+  {
+    "tip": "Change default passwords on all devices and accounts.",
+    "category": "Default Passwords"
+  },
+  {
+    "tip": "Be cautious with QR codes from unknown sources.",
+    "category": "QR Code Safety"
+  },
+  {
+    "tip": "Enable biometric authentication where available.",
+    "category": "Biometric Security"
+  },
+  {
+    "tip": "Avoid using the same password across multiple sites.",
+    "category": "Password Reuse"
+  },
+  {
+    "tip": "Report suspicious emails to your IT department.",
+    "category": "Incident Reporting"
+  },
+  {
+    "tip": "Use secure payment methods online.",
+    "category": "Online Payments"
+  },
+  {
+    "tip": "Keep your mobile devices locked with a PIN or biometric.",
+    "category": "Mobile Security"
+  },
+  {
+    "tip": "Avoid oversharing location information.",
+    "category": "Location Privacy"
+  },
+  {
+    "tip": "Use ad blockers to reduce exposure to malicious ads.",
+    "category": "Ad Blocking"
+  },
+  {
+    "tip": "Regularly review and revoke app permissions.",
+    "category": "App Permissions"
+  },
+  {
+    "tip": "Be aware of shoulder surfing in public places.",
+    "category": "Physical Security"
+  },
+  {
+    "tip": "Use encrypted messaging apps for sensitive conversations.",
+    "category": "Secure Messaging"
+  },
+  {
+    "tip": "Avoid clicking on pop-up ads.",
+    "category": "Pop-up Safety"
+  },
+  {
+    "tip": "Keep your browser and plugins updated.",
+    "category": "Browser Security"
+  },
+  {
+    "tip": "Use a hardware security key for added protection.",
+    "category": "Hardware Security"
+  },
+  {
+    "tip": "Be cautious with free Wi-Fi hotspots.",
+    "category": "Public Wi-Fi"
+  },
+  {
+    "tip": "Enable remote wipe on your devices.",
+    "category": "Device Recovery"
+  },
+  {
+    "tip": "Avoid using work devices for personal activities.",
+    "category": "Work-Life Balance"
+  },
+  {
+    "tip": "Use strong encryption for stored data.",
+    "category": "Data Storage"
+  },
+  {
+    "tip": "Be wary of social engineering tactics.",
+    "category": "Social Engineering"
+  },
+  {
+    "tip": "Regularly scan your devices for malware.",
+    "category": "Malware Scanning"
+  },
+  {
+    "tip": "Use secure file sharing services.",
+    "category": "File Sharing"
+  },
+  {
+    "tip": "Avoid using USB drives from unknown sources.",
+    "category": "USB Safety"
+  },
+  {
+    "tip": "Enable screen lock timeouts.",
+    "category": "Screen Security"
+  },
+  {
+    "tip": "Be cautious with online surveys and contests.",
+    "category": "Online Surveys"
+  },
+  {
+    "tip": "Use a virtual machine for testing suspicious files.",
+    "category": "Virtualization"
+  },
+  {
+    "tip": "Keep your home network secure with a strong password.",
+    "category": "Home Network"
+  },
+  {
+    "tip": "Avoid using public computers for sensitive tasks.",
+    "category": "Public Computers"
+  },
+  {
+    "tip": "Enable email filtering for spam.",
+    "category": "Email Filtering"
+  },
+  {
+    "tip": "Use secure protocols like HTTPS.",
+    "category": "Protocol Security"
+  },
+  {
+    "tip": "Be aware of deepfake technology.",
+    "category": "AI Threats"
+  },
+  {
+    "tip": "Regularly change your Wi-Fi password.",
+    "category": "Wi-Fi Security"
+  },
+  {
+    "tip": "Use a privacy-focused search engine.",
+    "category": "Search Privacy"
+  },
+  {
+    "tip": "Avoid storing sensitive data in the cloud without encryption.",
+    "category": "Cloud Security"
+  },
+  {
+    "tip": "Be cautious with voice-activated devices.",
+    "category": "IoT Security"
+  },
+  {
+    "tip": "Use a secure DNS service.",
+    "category": "DNS Security"
+  },
+  {
+    "tip": "Avoid using weak encryption methods.",
+    "category": "Encryption Standards"
+  },
+  {
+    "tip": "Monitor your credit report regularly.",
+    "category": "Identity Protection"
+  },
+  {
+    "tip": "Use a separate email for online registrations.",
+    "category": "Email Management"
+  },
+  {
+    "tip": "Be wary of fake tech support calls.",
+    "category": "Tech Support Scams"
+  },
+  {
+    "tip": "Enable automatic updates for all software.",
+    "category": "Auto Updates"
+  },
+  {
+    "tip": "Use a sandbox environment for unknown applications.",
+    "category": "Application Testing"
+  },
+  {
+    "tip": "Avoid using root access unless necessary.",
+    "category": "Privilege Management"
+  },
+  {
+    "tip": "Be cautious with cryptocurrency transactions.",
+    "category": "Crypto Security"
+  },
+  {
+    "tip": "Use secure boot on your devices.",
+    "category": "Boot Security"
+  },
+  {
+    "tip": "Avoid sharing login credentials.",
+    "category": "Credential Sharing"
+  },
+  {
+    "tip": "Use a privacy screen protector on public devices.",
+    "category": "Screen Privacy"
+  },
+  {
+    "tip": "Be aware of water holing attacks.",
+    "category": "Advanced Threats"
+  },
+  {
+    "tip": "Use multi-signature for important transactions.",
+    "category": "Transaction Security"
+  },
+  {
+    "tip": "Regularly audit your digital footprint.",
+    "category": "Digital Footprint"
+  },
+  {
+    "tip": "Avoid using deprecated software.",
+    "category": "Software Lifecycle"
+  },
+  {
+    "tip": "Use a secure erase tool for old devices.",
+    "category": "Data Destruction"
+  },
+  {
+    "tip": "Be cautious with smart contracts.",
+    "category": "Blockchain Security"
+  },
+  {
+    "tip": "Enable logging and monitoring on your network.",
+    "category": "Network Monitoring"
+  },
+  {
+    "tip": "Use a zero-trust security model.",
+    "category": "Zero Trust"
+  },
+  {
+    "tip": "Avoid using public charging stations.",
+    "category": "Device Charging"
+  },
+  {
+    "tip": "Be aware of supply chain attacks.",
+    "category": "Supply Chain Security"
+  },
+  {
+    "tip": "Use secure coding practices in development.",
+    "category": "Secure Coding"
+  },
+  {
+    "tip": "Regularly review access logs.",
+    "category": "Access Monitoring"
+  },
+  {
+    "tip": "Avoid using default router passwords.",
+    "category": "Router Security"
+  },
+  {
+    "tip": "Be cautious with API integrations.",
+    "category": "API Security"
+  },
+  {
+    "tip": "Use a secure file transfer protocol.",
+    "category": "File Transfer"
+  },
+  {
+    "tip": "Enable disk encryption on all devices.",
+    "category": "Disk Encryption"
+  },
+  {
+    "tip": "Avoid using weak hash functions.",
+    "category": "Hash Security"
+  },
+  {
+    "tip": "Be aware of insider threats.",
+    "category": "Insider Threats"
+  },
+  {
+    "tip": "Use a security information and event management (SIEM) system.",
+    "category": "SIEM"
+  },
+  {
+    "tip": "Regularly perform vulnerability assessments.",
+    "category": "Vulnerability Management"
+  },
+  {
+    "tip": "Avoid using unpatched legacy systems.",
+    "category": "Legacy Systems"
+  },
+  {
+    "tip": "Be cautious with third-party integrations.",
+    "category": "Third-Party Risk"
+  },
+  {
+    "tip": "Use secure random number generators.",
+    "category": "Randomness"
+  },
+  {
+    "tip": "Enable audit trails for critical systems.",
+    "category": "Audit Trails"
+  },
+  {
+    "tip": "Avoid using weak cipher suites.",
+    "category": "Cipher Security"
+  },
+  {
+    "tip": "Be aware of man-in-the-middle attacks.",
+    "category": "MITM Attacks"
+  },
+  {
+    "tip": "Use a web application firewall (WAF).",
+    "category": "WAF"
+  },
+  {
+    "tip": "Regularly test your incident response plan.",
+    "category": "Incident Response"
+  },
+  {
+    "tip": "Avoid using predictable patterns in passwords.",
+    "category": "Password Patterns"
+  },
+  {
+    "tip": "Be cautious with container security.",
+    "category": "Container Security"
+  },
+  {
+    "tip": "Use secure key management practices.",
+    "category": "Key Management"
+  },
+  {
+    "tip": "Enable two-person rule for critical operations.",
+    "category": "Dual Control"
+  },
+  {
+    "tip": "Avoid using unencrypted channels for sensitive data.",
+    "category": "Channel Security"
+  },
+  {
+    "tip": "Be aware of zero-day vulnerabilities.",
+    "category": "Zero-Day Threats"
+  },
+  {
+    "tip": "Use a secure configuration management system.",
+    "category": "Configuration Management"
+  },
+  {
+    "tip": "Regularly review and update security policies.",
+    "category": "Policy Management"
+  },
+  {
+    "tip": "Avoid using shared accounts.",
+    "category": "Account Sharing"
+  },
+  {
+    "tip": "Be cautious with machine learning in security.",
+    "category": "ML Security"
+  },
+  {
+    "tip": "Use secure boot attestation.",
+    "category": "Boot Attestation"
+  },
+  {
+    "tip": "Enable network segmentation.",
+    "category": "Network Segmentation"
+  },
+  {
+    "tip": "Avoid using weak authentication methods.",
+    "category": "Authentication Strength"
+  },
+  {
+    "tip": "Be aware of quantum computing threats.",
+    "category": "Quantum Threats"
+  },
+  {
+    "tip": "Use a secure software development lifecycle (SDLC).",
+    "category": "SDLC"
+  },
+  {
+    "tip": "Regularly perform penetration testing.",
+    "category": "Penetration Testing"
+  },
+  {
+    "tip": "Avoid using untrusted certificate authorities.",
+    "category": "Certificate Management"
+  },
+  {
+    "tip": "Be cautious with embedded systems security.",
+    "category": "Embedded Security"
+  },
+  {
+    "tip": "Use secure multi-party computation.",
+    "category": "MPC"
+  },
+  {
+    "tip": "Enable data loss prevention (DLP) tools.",
+    "category": "DLP"
+  },
+  {
+    "tip": "Avoid using predictable session IDs.",
+    "category": "Session Management"
+  },
+  {
+    "tip": "Be aware of side-channel attacks.",
+    "category": "Side-Channel Attacks"
+  },
+  {
+    "tip": "Use a secure content delivery network (CDN).",
+    "category": "CDN Security"
+  },
+  {
+    "tip": "Regularly audit third-party vendors.",
+    "category": "Vendor Auditing"
+  },
+  {
+    "tip": "Avoid using weak random number generation.",
+    "category": "RNG Security"
+  },
+  {
+    "tip": "Be cautious with homomorphic encryption.",
+    "category": "Homomorphic Encryption"
+  },
+  {
+    "tip": "Use secure remote access solutions.",
+    "category": "Remote Access"
+  },
+  {
+    "tip": "Enable behavioral analytics for threat detection.",
+    "category": "Behavioral Analytics"
+  },
+  {
+    "tip": "Avoid using unencrypted backups.",
+    "category": "Backup Security"
+  },
+  {
+    "tip": "Be aware of firmware vulnerabilities.",
+    "category": "Firmware Security"
+  },
+  {
+    "tip": "Use a secure email gateway.",
+    "category": "Email Gateway"
+  },
+  {
+    "tip": "Regularly review access control lists (ACLs).",
+    "category": "ACL Management"
+  },
+  {
+    "tip": "Avoid using weak integrity checks.",
+    "category": "Integrity Checks"
+  },
+  {
+    "tip": "Be cautious with cloud access security brokers (CASBs).",
+    "category": "CASB"
+  },
+  {
+    "tip": "Use secure API gateways.",
+    "category": "API Gateway"
+  },
+  {
+    "tip": "Enable runtime application self-protection (RASP).",
+    "category": "RASP"
+  },
+  {
+    "tip": "Avoid using predictable nonce values.",
+    "category": "Nonce Security"
+  },
+  {
+    "tip": "Be aware of memory corruption vulnerabilities.",
+    "category": "Memory Safety"
+  },
+  {
+    "tip": "Use a secure identity and access management (IAM) system.",
+    "category": "IAM"
+  },
+  {
+    "tip": "Regularly perform red team exercises.",
+    "category": "Red Teaming"
+  },
+  {
+    "tip": "Avoid using untrusted proxies.",
+    "category": "Proxy Security"
+  },
+  {
+    "tip": "Be cautious with serverless security.",
+    "category": "Serverless Security"
+  },
+  {
+    "tip": "Use secure secret management.",
+    "category": "Secret Management"
+  },
+  {
+    "tip": "Enable threat intelligence sharing.",
+    "category": "Threat Intelligence"
+  },
+  {
+    "tip": "Avoid using weak key derivation functions.",
+    "category": "KDF Security"
+  },
+  {
+    "tip": "Be aware of race condition vulnerabilities.",
+    "category": "Race Conditions"
+  },
+  {
+    "tip": "Use a secure orchestration platform.",
+    "category": "Orchestration Security"
+  },
+  {
+    "tip": "Regularly update threat models.",
+    "category": "Threat Modeling"
+  },
+  {
+    "tip": "Avoid using unencrypted communication channels.",
+    "category": "Communication Security"
+  },
+  {
+    "tip": "Be cautious with microservices security.",
+    "category": "Microservices Security"
+  },
+  {
+    "tip": "Use secure code review practices.",
+    "category": "Code Review"
+  },
+  {
+    "tip": "Enable continuous integration/continuous deployment (CI/CD) security.",
+    "category": "CI/CD Security"
+  },
+  {
+    "tip": "Avoid using weak padding schemes.",
+    "category": "Padding Security"
+  },
+  {
+    "tip": "Be aware of timing attacks.",
+    "category": "Timing Attacks"
+  },
+  {
+    "tip": "Use a secure configuration as code.",
+    "category": "Configuration as Code"
+  },
+  {
+    "tip": "Regularly perform compliance audits.",
+    "category": "Compliance Auditing"
+  },
+  {
+    "tip": "Avoid using untrusted libraries.",
+    "category": "Library Security"
+  },
+  {
+    "tip": "Be cautious with DevOps security.",
+    "category": "DevOps Security"
+  },
+  {
+    "tip": "Use secure artifact repositories.",
+    "category": "Artifact Security"
+  },
+  {
+    "tip": "Enable security testing in pipelines.",
+    "category": "Pipeline Security"
+  },
+  {
+    "tip": "Avoid using weak signature algorithms.",
+    "category": "Signature Security"
+  },
+  {
+    "tip": "Be aware of injection attacks.",
+    "category": "Injection Prevention"
+  },
+  {
+    "tip": "Use a secure service mesh.",
+    "category": "Service Mesh"
+  },
+  {
+    "tip": "Regularly review security metrics.",
+    "category": "Security Metrics"
+  },
+  {
+    "tip": "Avoid using unencrypted databases.",
+    "category": "Database Security"
+  },
+  {
+    "tip": "Be cautious with edge computing security.",
+    "category": "Edge Security"
+  },
+  {
+    "tip": "Use secure federated identity.",
+    "category": "Federated Identity"
+  },
+  {
+    "tip": "Enable security monitoring dashboards.",
+    "category": "Security Dashboards"
+  },
+  {
+    "tip": "Avoid using weak entropy sources.",
+    "category": "Entropy Security"
+  },
+  {
+    "tip": "Be aware of buffer overflow vulnerabilities.",
+    "category": "Buffer Overflows"
+  },
+  {
+    "tip": "Use a secure infrastructure as code.",
+    "category": "IaC Security"
+  },
+  {
+    "tip": "Regularly perform security awareness training.",
+    "category": "Security Training"
+  },
+  {
+    "tip": "Avoid using untrusted certificate pinning.",
+    "category": "Certificate Pinning"
+  },
+  {
+    "tip": "Be cautious with quantum-resistant cryptography.",
+    "category": "Post-Quantum Crypto"
+  },
+  {
+    "tip": "Use secure multi-cloud strategies.",
+    "category": "Multi-Cloud Security"
+  },
+  {
+    "tip": "Enable automated security scanning.",
+    "category": "Automated Scanning"
+  },
+  {
+    "tip": "Avoid using weak key exchange protocols.",
+    "category": "Key Exchange"
+  },
+  {
+    "tip": "Be aware of cross-site scripting (XSS) attacks.",
+    "category": "XSS Prevention"
+  },
+  {
+    "tip": "Use a secure content security policy (CSP).",
+    "category": "CSP"
+  },
+  {
+    "tip": "Regularly update security playbooks.",
+    "category": "Security Playbooks"
+  },
+  {
+    "tip": "Avoid using unencrypted logs.",
+    "category": "Log Security"
+  },
+  {
+    "tip": "Be cautious with artificial intelligence security.",
+    "category": "AI Security"
+  },
+  {
+    "tip": "Use secure data classification.",
+    "category": "Data Classification"
+  },
+  {
+    "tip": "Enable security orchestration, automation, and response (SOAR).",
+    "category": "SOAR"
+  },
+  {
+    "tip": "Avoid using weak message authentication codes (MACs).",
+    "category": "MAC Security"
+  },
+  {
+    "tip": "Be aware of cross-site request forgery (CSRF) attacks.",
+    "category": "CSRF Prevention"
+  },
+  {
+    "tip": "Use a secure web application architecture.",
+    "category": "Web Architecture"
+  },
+  {
+    "tip": "Regularly perform security assessments.",
+    "category": "Security Assessments"
+  },
+  {
+    "tip": "Avoid using untrusted input validation.",
+    "category": "Input Validation"
+  },
+  {
+    "tip": "Be cautious with mobile application security.",
+    "category": "Mobile App Security"
+  },
+  {
+    "tip": "Use secure OAuth implementations.",
+    "category": "OAuth Security"
+  },
+  {
+    "tip": "Enable security headers in web applications.",
+    "category": "Security Headers"
+  },
+  {
+    "tip": "Avoid using weak session management.",
+    "category": "Session Security"
+  },
+  {
+    "tip": "Be aware of clickjacking attacks.",
+    "category": "Clickjacking Prevention"
+  },
+  {
+    "tip": "Use a secure REST API design.",
+    "category": "API Design"
+  },
+  {
+    "tip": "Regularly review security requirements.",
+    "category": "Security Requirements"
+  },
+  {
+    "tip": "Avoid using unencrypted cookies.",
+    "category": "Cookie Security"
+  },
+  {
+    "tip": "Be cautious with progressive web app (PWA) security.",
+    "category": "PWA Security"
+  },
+  {
+    "tip": "Use secure JSON Web Tokens (JWT).",
+    "category": "JWT Security"
+  },
+  {
+    "tip": "Enable security testing for APIs.",
+    "category": "API Testing"
+  },
+  {
+    "tip": "Avoid using weak CORS policies.",
+    "category": "CORS Security"
+  },
+  {
+    "tip": "Be aware of open redirect vulnerabilities.",
+    "category": "Open Redirect"
+  },
+  {
+    "tip": "Use a secure GraphQL implementation.",
+    "category": "GraphQL Security"
+  },
+  {
+    "tip": "Regularly audit security controls.",
+    "category": "Security Auditing"
+  },
+  {
+    "tip": "Avoid using untrusted subresource integrity.",
+    "category": "SRI"
+  },
+  {
+    "tip": "Be cautious with web socket security.",
+    "category": "WebSocket Security"
+  },
+  {
+    "tip": "Use secure server-side rendering (SSR).",
+    "category": "SSR Security"
+  },
+  {
+    "tip": "Enable security monitoring for databases.",
+    "category": "Database Monitoring"
+  },
+  {
+    "tip": "Avoid using weak prepared statements.",
+    "category": "Prepared Statements"
+  },
+  {
+    "tip": "Be aware of NoSQL injection attacks.",
+    "category": "NoSQL Injection"
+  },
+  {
+    "tip": "Use a secure ORM implementation.",
+    "category": "ORM Security"
+  },
+  {
+    "tip": "Regularly review database permissions.",
+    "category": "Database Permissions"
+  },
+  {
+    "tip": "Avoid using unencrypted stored procedures.",
+    "category": "Stored Procedure Security"
+  },
+  {
+    "tip": "Be cautious with big data security.",
+    "category": "Big Data Security"
+  },
+  {
+    "tip": "Use secure data pipelines.",
+    "category": "Data Pipeline Security"
+  },
+  {
+    "tip": "Enable security for data lakes.",
+    "category": "Data Lake Security"
+  },
+  {
+    "tip": "Avoid using weak data masking techniques.",
+    "category": "Data Masking"
+  },
+  {
+    "tip": "Be aware of data exfiltration techniques.",
+    "category": "Data Exfiltration"
+  },
+  {
+    "tip": "Use secure data warehousing.",
+    "category": "Data Warehouse Security"
+  },
+  {
+    "tip": "Regularly perform data privacy impact assessments.",
+    "category": "Privacy Impact Assessment"
+  },
+  {
+    "tip": "Avoid using unencrypted data at rest.",
+    "category": "Data at Rest Security"
+  },
+  {
+    "tip": "Be cautious with data in transit security.",
+    "category": "Data in Transit"
+  },
+  {
+    "tip": "Use secure data anonymization.",
+    "category": "Data Anonymization"
+  },
+  {
+    "tip": "Enable security for machine learning models.",
+    "category": "ML Model Security"
+  },
+  {
+    "tip": "Avoid using weak model poisoning defenses.",
+    "category": "Model Poisoning"
+  },
+  {
+    "tip": "Be aware of adversarial attacks on AI.",
+    "category": "Adversarial AI"
+  },
+  {
+    "tip": "Use secure federated learning.",
+    "category": "Federated Learning"
+  },
+  {
+    "tip": "Regularly audit AI systems for bias.",
+    "category": "AI Bias Auditing"
+  },
+  {
+    "tip": "Avoid using untrusted AI training data.",
+    "category": "Training Data Security"
+  },
+  {
+    "tip": "Be cautious with automated decision systems.",
+    "category": "Automated Decision Security"
+  },
+  {
+    "tip": "Use secure explainable AI (XAI).",
+    "category": "XAI Security"
+  },
+  {
+    "tip": "Enable security for robotic process automation (RPA).",
+    "category": "RPA Security"
+  },
+  {
+    "tip": "Avoid using weak automation scripts.",
+    "category": "Automation Security"
+  },
+  {
+    "tip": "Be aware of supply chain vulnerabilities in automation.",
+    "category": "Automation Supply Chain"
+  },
+  {
+    "tip": "Use secure workflow automation.",
+    "category": "Workflow Security"
+  },
+  {
+    "tip": "Regularly review automation permissions.",
+    "category": "Automation Permissions"
+  },
+  {
+    "tip": "Avoid using unencrypted automation logs.",
+    "category": "Automation Logging"
+  },
+  {
+    "tip": "Be cautious with low-code/no-code security.",
+    "category": "Low-Code Security"
+  },
+  {
+    "tip": "Use secure integration platforms.",
+    "category": "Integration Security"
+  },
+  {
+    "tip": "Enable security for enterprise service bus (ESB).",
+    "category": "ESB Security"
+  },
+  {
+    "tip": "Avoid using weak message queuing security.",
+    "category": "Message Queue Security"
+  },
+  {
+    "tip": "Be aware of event-driven architecture vulnerabilities.",
+    "category": "EDA Security"
+  },
+  {
+    "tip": "Use secure event streaming.",
+    "category": "Event Streaming Security"
+  },
+  {
+    "tip": "Regularly audit integration endpoints.",
+    "category": "Endpoint Auditing"
+  },
+  {
+    "tip": "Avoid using untrusted webhooks.",
+    "category": "Webhook Security"
+  },
+  {
+    "tip": "Be cautious with API-first security.",
+    "category": "API-First Security"
+  },
+  {
+    "tip": "Use secure headless CMS.",
+    "category": "Headless CMS Security"
+  },
+  {
+    "tip": "Enable security for static site generators.",
+    "category": "SSG Security"
+  },
+  {
+    "tip": "Avoid using weak JAMstack security.",
+    "category": "JAMstack Security"
+  },
+  {
+    "tip": "Be aware of serverless function vulnerabilities.",
+    "category": "Serverless Function Security"
+  },
+  {
+    "tip": "Use secure function as a service (FaaS).",
+    "category": "FaaS Security"
+  },
+  {
+    "tip": "Regularly review function permissions.",
+    "category": "Function Permissions"
+  },
+  {
+    "tip": "Avoid using unencrypted function environment variables.",
+    "category": "Environment Variable Security"
+  },
+  {
+    "tip": "Be cautious with edge function security.",
+    "category": "Edge Function Security"
+  },
+  {
+    "tip": "Use secure lambda architectures.",
+    "category": "Lambda Security"
+  },
+  {
+    "tip": "Enable security for micro frontends.",
+    "category": "Micro Frontend Security"
+  },
+  {
+    "tip": "Avoid using weak module federation security.",
+    "category": "Module Federation Security"
+  },
+  {
+    "tip": "Be aware of component library vulnerabilities.",
+    "category": "Component Library Security"
+  },
+  {
+    "tip": "Use secure design systems.",
+    "category": "Design System Security"
+  },
+  {
+    "tip": "Regularly audit UI component security.",
+    "category": "UI Component Auditing"
+  },
+  {
+    "tip": "Avoid using untrusted npm packages.",
+    "category": "NPM Security"
+  },
+  {
+    "tip": "Be cautious with package manager security.",
+    "category": "Package Manager Security"
+  },
+  {
+    "tip": "Use secure dependency management.",
+    "category": "Dependency Security"
+  },
+  {
+    "tip": "Enable security for monorepos.",
+    "category": "Monorepo Security"
+  },
+  {
+    "tip": "Avoid using weak build pipeline security.",
+    "category": "Build Pipeline Security"
+  },
+  {
+    "tip": "Be aware of container escape vulnerabilities.",
+    "category": "Container Escape"
+  },
+  {
+    "tip": "Use secure container orchestration.",
+    "category": "Container Orchestration"
+  },
+  {
+    "tip": "Regularly scan container images.",
+    "category": "Container Scanning"
+  },
+  {
+    "tip": "Avoid using untrusted base images.",
+    "category": "Base Image Security"
+  },
+  {
+    "tip": "Be cautious with Kubernetes security.",
+    "category": "Kubernetes Security"
+  },
+  {
+    "tip": "Use secure pod security policies.",
+    "category": "Pod Security"
+  },
+  {
+    "tip": "Enable security for service accounts.",
+    "category": "Service Account Security"
+  },
+  {
+    "tip": "Avoid using weak RBAC configurations.",
+    "category": "RBAC Security"
+  },
+  {
+    "tip": "Be aware of etcd vulnerabilities.",
+    "category": "etcd Security"
+  },
+  {
+    "tip": "Use secure Helm charts.",
+    "category": "Helm Security"
+  },
+  {
+    "tip": "Regularly audit cluster configurations.",
+    "category": "Cluster Auditing"
+  },
+  {
+    "tip": "Avoid using unencrypted secrets.",
+    "category": "Secret Security"
+  },
+  {
+    "tip": "Be cautious with ingress controller security.",
+    "category": "Ingress Security"
+  },
+  {
+    "tip": "Use secure network policies.",
+    "category": "Network Policy Security"
+  },
+  {
+    "tip": "Enable security for persistent volumes.",
+    "category": "Persistent Volume Security"
+  },
+  {
+    "tip": "Avoid using weak admission controllers.",
+    "category": "Admission Controller Security"
+  },
+  {
+    "tip": "Be aware of sidecar proxy vulnerabilities.",
+    "category": "Sidecar Security"
+  },
+  {
+    "tip": "Use secure service discovery.",
+    "category": "Service Discovery Security"
+  },
+  {
+    "tip": "Regularly review cluster roles.",
+    "category": "Cluster Role Auditing"
+  },
+  {
+    "tip": "Avoid using untrusted operators.",
+    "category": "Operator Security"
+  },
+  {
+    "tip": "Be cautious with custom resource definitions (CRDs).",
+    "category": "CRD Security"
+  },
+  {
+    "tip": "Use secure workload identity.",
+    "category": "Workload Identity"
+  },
+  {
+    "tip": "Enable security for stateful sets.",
+    "category": "Stateful Set Security"
+  },
+  {
+    "tip": "Avoid using weak tolerations and taints.",
+    "category": "Toleration Security"
+  },
+  {
+    "tip": "Be aware of node compromise risks.",
+    "category": "Node Security"
+  },
+  {
+    "tip": "Use secure container runtime.",
+    "category": "Runtime Security"
+  },
+  {
+    "tip": "Regularly update container images.",
+    "category": "Image Updating"
+  },
+  {
+    "tip": "Avoid using privileged containers.",
+    "category": "Privileged Container Security"
+  },
+  {
+    "tip": "Be cautious with init container security.",
+    "category": "Init Container Security"
+  },
+  {
+    "tip": "Use secure ephemeral containers.",
+    "category": "Ephemeral Container Security"
+  },
+  {
+    "tip": "Enable security for jobs and cron jobs.",
+    "category": "Job Security"
+  },
+  {
+    "tip": "Avoid using weak resource limits.",
+    "category": "Resource Limit Security"
+  },
+  {
+    "tip": "Be aware of horizontal pod autoscaler vulnerabilities.",
+    "category": "HPA Security"
+  },
+  {
+    "tip": "Use secure config maps and secrets.",
+    "category": "Config Map Security"
+  },
+  {
+    "tip": "Regularly audit pod security standards.",
+    "category": "Pod Security Standards"
+  },
+  {
+    "tip": "Avoid using untrusted webhooks.",
+    "category": "Admission Webhook Security"
+  },
+  {
+    "tip": "Be cautious with mutating webhooks.",
+    "category": "Mutating Webhook Security"
+  },
+  {
+    "tip": "Use secure validating webhooks.",
+    "category": "Validating Webhook Security"
+  },
+  {
+    "tip": "Enable security for custom controllers.",
+    "category": "Controller Security"
+  },
+  {
+    "tip": "Avoid using weak finalizers.",
+    "category": "Finalizer Security"
+  },
+  {
+    "tip": "Be aware of owner reference vulnerabilities.",
+    "category": "Owner Reference Security"
+  },
+  {
+    "tip": "Use secure garbage collection.",
+    "category": "Garbage Collection Security"
+  },
+  {
+    "tip": "Regularly review API server security.",
+    "category": "API Server Security"
+  },
+  {
+    "tip": "Avoid using untrusted plugins.",
+    "category": "Plugin Security"
+  },
+  {
+    "tip": "Be cautious with extension APIs.",
+    "category": "Extension API Security"
+  },
+  {
+    "tip": "Use secure aggregation layers.",
+    "category": "Aggregation Layer Security"
+  },
+  {
+    "tip": "Enable security for multi-cluster setups.",
+    "category": "Multi-Cluster Security"
+  },
+  {
+    "tip": "Avoid using weak federation security.",
+    "category": "Federation Security"
+  },
+  {
+    "tip": "Be aware of cluster API vulnerabilities.",
+    "category": "Cluster API Security"
+  },
+  {
+    "tip": "Use secure cluster lifecycle management.",
+    "category": "Cluster Lifecycle Security"
+  },
+  {
+    "tip": "Regularly audit cloud provider integrations.",
+    "category": "Cloud Integration Auditing"
+  },
+  {
+    "tip": "Avoid using untrusted managed services.",
+    "category": "Managed Service Security"
+  },
+  {
+    "tip": "Be cautious with serverless container security.",
+    "category": "Serverless Container Security"
+  },
+  {
+    "tip": "Use secure event-driven serverless.",
+    "category": "Event-Driven Serverless Security"
+  },
+  {
+    "tip": "Enable security for function URLs.",
+    "category": "Function URL Security"
+  },
+  {
+    "tip": "Avoid using weak concurrency limits.",
+    "category": "Concurrency Security"
+  },
+  {
+    "tip": "Be aware of cold start vulnerabilities.",
+    "category": "Cold Start Security"
+  },
+  {
+    "tip": "Use secure function versioning.",
+    "category": "Function Versioning Security"
+  },
+  {
+    "tip": "Regularly review function logs.",
+    "category": "Function Logging Security"
+  },
+  {
+    "tip": "Avoid using unencrypted function payloads.",
+    "category": "Payload Security"
+  },
+  {
+    "tip": "Be cautious with cross-origin resource sharing (CORS) in serverless.",
+    "category": "Serverless CORS Security"
+  },
+  {
+    "tip": "Use secure API Gateway integrations.",
+    "category": "API Gateway Integration Security"
+  },
+  {
+    "tip": "Enable security for custom authorizers.",
+    "category": "Authorizer Security"
+  },
+  {
+    "tip": "Avoid using weak throttling policies.",
+    "category": "Throttling Security"
+  },
+  {
+    "tip": "Be aware of API key vulnerabilities.",
+    "category": "API Key Security"
+  },
+  {
+    "tip": "Use secure usage plans.",
+    "category": "Usage Plan Security"
+  },
+  {
+    "tip": "Regularly audit API deployments.",
+    "category": "API Deployment Auditing"
+  },
+  {
+    "tip": "Avoid using untrusted SDKs.",
+    "category": "SDK Security"
+  },
+  {
+    "tip": "Be cautious with mobile SDK security.",
+    "category": "Mobile SDK"
+  }
+]
